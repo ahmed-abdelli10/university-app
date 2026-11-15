@@ -53,11 +53,7 @@ function App() {
           ville={etudiant.ville}
         />
       ))}
-      <center>
-        <a href="mailto:ahmedabdelli2307@gmail.com">
-          <button id="helo">continue:</button>
-        </a>
-      </center>
+
       <Footer></Footer>
     </>
   );
