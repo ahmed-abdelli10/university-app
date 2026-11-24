@@ -9,3 +9,22 @@ button {
   padding: 8px;
   background-color: rgb(131, 131, 131);
 }
+img {
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+}
+.student-form {
+  width: 90%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #003c77;
+  color: #ece8e8;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}

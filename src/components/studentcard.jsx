@@ -56,7 +56,7 @@ function Studentcard(props) {
           : "Afficher les informations"}
       </button>
 
-      <button type="button" onClick={() => props.onModifier(props.id)}>
+      <button type="button" onClick={() => props.onModifier(props.etudiant)}>
         Modifier
       </button>
 
